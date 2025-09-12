@@ -1,0 +1,3 @@
+> This document is in the process of being written. In the meantime, a very short summary has been written below.
+
+Welcome to the Cobalt's Corner knowledgebase. Our goal is to create a shared space for liberals to share their ideas political theory and strategy. All writing should be done through the [Obsidian](https://obsidian.md) note-taking program, and submitted as pull requests. I will be adding a guide on Git/GitHub setup and use to this knowledgebase soon. For now, if you are new to Git/GitHub and have no idea what a pull request is, ask me (Cobalt, aka `cobaltscorner`) directly in [the Discord server](https://cobaltscorner.org/discord).
