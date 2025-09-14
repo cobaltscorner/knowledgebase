@@ -1,0 +1,1 @@
+> This document is in the process of being written. For now, if you are new to Git/GitHub and need help with the contributing process, ask me (Cobalt, aka `cobaltscorner`) directly in [the Discord server](https://cobaltscorner.org/discord).
