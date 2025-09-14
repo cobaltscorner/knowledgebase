@@ -5,7 +5,7 @@ Welcome to the Cobalt's Corner knowledgebase. This repository represents the col
 ### For Readers
 If you'd like to read about our ideas, this is the place to do it. It's recommended that you view this knowledgebase in Obsidian, but you can simply explore it on GitHub if you're not familiar with Obsidian or don't know how to download the repository. In the future, we hope to publish these notes on a dedicated site with a more user-friendly reader experience.
 ### For Contributors
-If you'd like to contribute, you'll need to install the [Obsidian](https://obsidian.md) Markdown editor, as well as the [Git](https://git-scm.com) version control system. Visit the [[Contributing]] guide for more information on how to set up and use Git and GitHub.
+If you'd like to contribute, you'll need to install the [Obsidian](https://obsidian.md) Markdown editor, as well as the [Git](https://git-scm.com) version control system. Visit the [Contributing](Contributing) guide for more information on how to set up and use Git and GitHub.
 
 When you make a contribution, it will be evaluated by a staff member based on its quality, factual accuracy, and pertinence to our movement. If there are issues with your contribution that we feel are fixable, we will either ask you to make edits, or we will make those edits for you and ask for your approval to finalize the submission. If there are irreconcilable issues with your submission, it will be rejected.
 
