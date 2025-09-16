@@ -21,3 +21,7 @@
 > 4. **Pull request (PR)** - submit your writing to the main repository for review
 
 > To be continued.
+## Content Guidelines
+When you make a contribution, it will be evaluated by a staff member based on its quality, factual accuracy, and pertinence to our movement. If there are issues with your contribution that we feel are fixable, we will either ask you to make edits, or we will make those edits for you and ask for your approval to finalize the submission. If there are irreconcilable issues with your submission, it will be rejected.
+
+Writing topics should pertain to politics, and should be written within the bounds of our mission. Broadly, this means that arguing in support of illiberal forms of government, or against electoral politics, is not acceptable. There may be a time and a place for having these kinds of discussions, but this is not it.
